@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Theia: the Universe in motion'
-datePublished: '2016-08-18T16:35:43.338Z'
-dateModified: '2016-08-18T16:35:37.396Z'
+datePublished: '2016-08-18T16:53:39.065Z'
+dateModified: '2016-08-18T16:52:20.278Z'
 title: ''
 author: []
 via: {}
@@ -25,3 +25,4 @@ Theia: the Universe in motion
 Today, two of the most intriguing questions of our modern Science are: what is the nature of what we call "Dark Matter" in the Universe? and which "Sun-like"stars harbour real "Earth-like" habitable planets?
 
 The answer of both questions relies on very precise astrometric measurements. Theia is a space mission concept designed to address these questions.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b447a089-8cfc-4d2f-b03c-512bab841789.png)
