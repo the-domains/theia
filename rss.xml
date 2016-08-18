@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Theia: the Universe in motion]]></title>
         <description><![CDATA[Theia: the Universe in motion]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/theia/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 18 Aug 2016 16:31:45 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 18 Aug 2016 16:36:34 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/theia/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Theia: the Universe in motion</p>]]></description>
-            <link>undefinedtheia-the-universe-in-motion/index.html</link>
+            <link>https://thegrid.ai/theia/theia-the-universe-in-motion/index.html</link>
             <guid isPermaLink="false">3880b8f4-7d47-4cb9-98ad-e7303ea287b0</guid>
-            <pubDate>Thu, 18 Aug 2016 16:31:44 GMT</pubDate>
+            <pubDate>Thu, 18 Aug 2016 16:35:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
