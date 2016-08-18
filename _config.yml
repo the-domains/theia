@@ -2,6 +2,7 @@ name: theia
 favicon: null
 layout_spectrum: 0.995121412910521
 typography_spectrum: 0.17942248634062707
+title: 'Theia: the Universe in motion'
 cta:
   domain: null
   bucket: null
