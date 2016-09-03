@@ -1,20 +1,4 @@
-name: theia
-favicon: null
-layout_spectrum: 0.95224
 typography_spectrum: 0.8516
-title: 'Theia: the Universe in motion'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#000000'
@@ -26,4 +10,21 @@ color:
   lightness: 0.26293121511116624
   saturation: 0.5472485159989446
   rhythmicContrast: 0.25
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.95224
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: theia
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: 'Theia: the Universe in motion'
+description: the Universe in motion
 purpose: []
