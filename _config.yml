@@ -40,6 +40,9 @@ navigation:
   - name: Dark Matter
     id: 4b92fe10-6594-42d1-8a21-7001c773b4f6
     type: content
+  - name: Exoplanets
+    id: 60a454bb-f225-4407-8851-b8e7cbd6311e
+    type: content
 favicon: null
 title: Theia
 description: the Universe in motion
