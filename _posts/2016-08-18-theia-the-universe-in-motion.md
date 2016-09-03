@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Theia: the Universe in motion'
-datePublished: '2016-08-18T16:53:39.065Z'
-dateModified: '2016-08-18T16:52:20.278Z'
+datePublished: '2016-08-31T20:41:39.181Z'
+dateModified: '2016-08-18T16:53:42.945Z'
 title: ''
 author: []
 via: {}
