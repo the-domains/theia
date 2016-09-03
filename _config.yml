@@ -37,6 +37,9 @@ navigation:
   - name: Heritage
     id: 0aaa2d42-4793-4b8d-b308-02c6d695741f
     type: content
+  - name: Dark Matter
+    id: 4b92fe10-6594-42d1-8a21-7001c773b4f6
+    type: content
 favicon: null
 title: Theia
 description: the Universe in motion
