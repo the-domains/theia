@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-31T22:33:27.087Z'
+datePublished: '2016-08-31T22:46:54.276Z'
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-08-31T22:33:16.409Z'
+dateModified: '2016-08-31T22:46:53.146Z'
 title: Habitable Exo-Earths
 publisher: {}
 description: >-
@@ -12,9 +12,11 @@ description: >-
   detect and characterize the masses and orbits of these planets around our
   nearmost Sun-like stars. Theia will pave the way for finding life elsewhere in
   the Universe.
-starred: false
 sourcePath: _posts/2016-08-31-habitable-exo-earths.md
-_type: Blurb
+hasPage: true
+starred: false
+url: habitable-exo-earths/index.html
+_type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/06ac474b-d38a-4493-b934-a9bdf3648361.png)
