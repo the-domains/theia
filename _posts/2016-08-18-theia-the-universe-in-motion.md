@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-31T21:46:24.474Z'
+datePublished: '2016-08-31T22:01:25.037Z'
 sourcePath: _posts/2016-08-18-theia-the-universe-in-motion.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-31T21:46:23.993Z'
+dateModified: '2016-08-31T22:01:24.093Z'
 title: Mission
 publisher: {}
 description: >-
