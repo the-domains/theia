@@ -4,7 +4,7 @@
         <description><![CDATA[Theia]]></description>
         <link>https://thegrid.ai/theia/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 31 Aug 2016 22:47:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2016 22:47:56 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/theia/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Mission]]></title>
@@ -14,11 +14,11 @@
             <pubDate>Wed, 31 Aug 2016 22:01:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Astrometry]]></title>
-            <description><![CDATA[<article><h1>Astrometry</h1><p>Astrometry lies at the very heart of Theia. The entire mission concept is built around stability, to enable sub-microarcsecond angular measurements over the 0.5 degrees telescope Field-of-View.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7ada6b4d-1a4a-42f3-aa84-7b74dd37f7de.png"></article>]]></description>
+            <title><![CDATA[Payload]]></title>
+            <description><![CDATA[<article><h1>Payload</h1><p>Astrometry lies at the very heart of Theia. The entire mission concept is built around stability, to enable sub-microarcsecond angular measurements over the 0.5 degrees telescope Field-of-View.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7ada6b4d-1a4a-42f3-aa84-7b74dd37f7de.png"></article>]]></description>
             <link>https://thegrid.ai/theia/payload/index.html</link>
             <guid isPermaLink="false">2c59cc07-49db-4380-a9a5-9c262f3b6f7e</guid>
-            <pubDate>Wed, 31 Aug 2016 22:46:17 GMT</pubDate>
+            <pubDate>Wed, 31 Aug 2016 22:01:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Heritage]]></title>
