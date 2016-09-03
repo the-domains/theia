@@ -19,6 +19,9 @@ analytics:
   google: null
   facebook: null
   twitter: null
+author:
+  name: Alberto Krone-Martins
+  email: algol@sim.ul.pt
 name: theia
 cta:
   domain: null
