@@ -43,6 +43,9 @@ navigation:
   - name: Exoplanets
     id: 60a454bb-f225-4407-8851-b8e7cbd6311e
     type: content
+  - name: Legacy
+    id: e8c1732c-bf2f-4902-b4cb-6098315dad81
+    type: content
 favicon: null
 title: Theia
 description: the Universe in motion
