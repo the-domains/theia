@@ -31,7 +31,7 @@ navigation:
   - name: Mission
     id: 3880b8f4-7d47-4cb9-98ad-e7303ea287b0
     type: content
-  - name: Payload
+  - name: Astrometry
     id: 2c59cc07-49db-4380-a9a5-9c262f3b6f7e
     type: content
   - name: Heritage
