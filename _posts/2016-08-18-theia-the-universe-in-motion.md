@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-31T20:54:08.170Z'
+datePublished: '2016-08-31T21:35:39.228Z'
 sourcePath: _posts/2016-08-18-theia-the-universe-in-motion.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-31T20:54:07.662Z'
+dateModified: '2016-08-31T21:35:38.571Z'
 title: Theia Mission
 publisher: {}
 description: 'Theia: the Universe in motion'
@@ -18,8 +18,9 @@ url: theia-the-universe-in-motion/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9d00b379-0892-4386-aebf-64b94274819e.png)
+
 # Theia Mission
-![Early rendering of a possible concept for the Theia spacecraft.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/87297c34-dcd3-46a0-a03a-c9fc732490e3.png)
 
 Theia: the Universe in motion
 
