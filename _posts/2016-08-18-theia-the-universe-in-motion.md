@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-31T22:01:25.037Z'
+datePublished: '2016-09-01T15:54:49.243Z'
 sourcePath: _posts/2016-08-18-theia-the-universe-in-motion.md
 inFeed: true
 authors: []
@@ -7,13 +7,12 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-31T22:01:24.093Z'
+dateModified: '2016-09-01T10:39:03.796Z'
 title: Mission
 publisher: {}
 description: >-
-  Two of the most intriguing questions of our modern Science are: what is the
-  nature of what we call "Dark Matter" in the Universe? and which
-  "Sun-like"stars harbour real "Earth-like" habitable planets?
+  What is the nature of  the "Dark Matter" that is the major part of the matter
+  at the  Universe? 
 inLanguage: null
 inNav: false
 starred: false
@@ -25,6 +24,8 @@ _type: Article
 
 # Mission
 
-Two of the most intriguing questions of our modern Science are: **what is the nature of what we call "Dark Matter" in the Universe? and which "Sun-like"stars harbour real "Earth-like" habitable planets?**
+What is the nature of the "Dark Matter" that is the major part of the matter at the Universe? 
+
+Which Sun-like stars harbor real Earth-like habitable planets?
 
 The answer of both questions relies on very precise astrometric measurements. Theia is a space mission concept designed to address both of these questions, and much more.
