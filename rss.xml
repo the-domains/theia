@@ -4,7 +4,7 @@
         <description><![CDATA[Theia]]></description>
         <link>https://thegrid.ai/theia/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 01 Sep 2016 15:55:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Sep 2016 15:55:19 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/theia/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Mission]]></title>
@@ -21,13 +21,6 @@
             <pubDate>Thu, 01 Sep 2016 10:42:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Community]]></title>
-            <description><![CDATA[<article><h1>Community</h1><p>Theia community networks more than 200 researchers and engineers from 21 countries around a common space mission and a common scientific instrument.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/f5f81d5d36ff6e1dd9208c0460bfa66c/croprotate.png?cropheight=626&cropwidth=1011&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F7fd545dd-59ca-40b4-b936-a3b45e0b01e8.png&x=184&y=0"></article>]]></description>
-            <link>http://goo.gl/qBQ7nN</link>
-            <guid isPermaLink="false">4e70f7c5-1777-4b64-9e5a-feb8b11b8a39</guid>
-            <pubDate>Thu, 01 Sep 2016 13:38:47 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Dark Matter]]></title>
             <description><![CDATA[<article><h1>Dark Matter</h1><p>About 80% of the matter in our Universe is made of dark matter. And we do not understand what it is. Theia will help to elucidate this problem once and for all.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e75f7017-f15d-474c-bdee-240040dbcef6.png"></article>]]></description>
             <link>https://thegrid.ai/theia/dark-matter/index.html</link>
@@ -36,24 +29,31 @@
         </item>
         <item>
             <title><![CDATA[Habitable Exo-Earths]]></title>
-            <description><![CDATA[<article><h1>Habitable Exo-Earths</h1><p>There should be plenty of planets like the Earth, lying inside the habitable zone of stars just like our Sun. But we do not know where they are. Theia will detect and characterize the masses and orbits of these planets around our nearmost Sun-like stars. Theia will pave the way for finding life elsewhere in the Universe.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/06ac474b-d38a-4493-b934-a9bdf3648361.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Habitable Exo-Earths</h1><p>There should be plenty of planets like the Earth, lying inside the habitable zone of stars just like our Sun. But we do not know where they are. Theia will find them. Theia will characterize their masses and dynamics around our nearmost Sun-like stars. Theia will pave the way so one day, humanity can perhaps find life elsewhere in the Universe.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/06ac474b-d38a-4493-b934-a9bdf3648361.png"></article>]]></description>
             <link>https://thegrid.ai/theia/habitable-exo-earths/index.html</link>
             <guid isPermaLink="false">60a454bb-f225-4407-8851-b8e7cbd6311e</guid>
-            <pubDate>Wed, 31 Aug 2016 22:46:54 GMT</pubDate>
+            <pubDate>Thu, 01 Sep 2016 15:54:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Additional Science]]></title>
-            <description><![CDATA[<article><h1>Additional Science</h1><p>Theia will touch all themes from the ESA Cosmic Vision programme. For instance, together with ESA/Athena it will determine the state of matter inside Neutron Stars, which are the most extreme environments of the Universe. Theia might even discover “Quark stars”, if they are out there – and if they are not, well, as the poet once wrote, “There is something rotten…”.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b5095601-68e0-4afd-ad20-c891f9c23311.png"></article>]]></description>
+            <title><![CDATA[And much more]]></title>
+            <description><![CDATA[<article><h1>And much more</h1><p>Theia will touch all themes from the ESA Cosmic Vision programme. Together with ESA/Athena measurements it will determine the state of matter inside Neutron Stars, which are among the most extreme environments of the Universe. Theia might even discover “Quark stars”, if they are out there – and if they are not, well, as the poet once wrote “Something is rotten…”.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b5095601-68e0-4afd-ad20-c891f9c23311.png"></article>]]></description>
             <link>https://thegrid.ai/theia/additional-science/index.html</link>
             <guid isPermaLink="false">e8c1732c-bf2f-4902-b4cb-6098315dad81</guid>
-            <pubDate>Wed, 31 Aug 2016 22:47:19 GMT</pubDate>
+            <pubDate>Thu, 01 Sep 2016 15:54:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Heritage]]></title>
-            <description><![CDATA[<article><h1>Heritage</h1><p>Theia builds on top of a large astronomical and technological heritage from highly successfull space missions as ESA/HIPPARCOS, ESA/Gaia, NASA/ESA/HST and advanced mission projects and concepts supported by ESA, CNES and NASA developed for SIM, NEAT, Theia/M4 and Euclid.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2fbe5775-2c20-4b22-8b4e-d8676f2f0fc2.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Heritage</h1><p>Theia builds on top of a large astronomical, operational and technological heritage from highly successful space missions such as ESA/HIPPARCOS, ESA/Gaia, NASA/ESA/HST and advanced mission projects and concepts supported by ESA, CNES and NASA developed for SIM, NEAT, Theia/M4 and Euclid.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2fbe5775-2c20-4b22-8b4e-d8676f2f0fc2.png"></article>]]></description>
             <link>https://thegrid.ai/theia/heritage/index.html</link>
             <guid isPermaLink="false">0aaa2d42-4793-4b8d-b308-02c6d695741f</guid>
-            <pubDate>Wed, 31 Aug 2016 22:45:43 GMT</pubDate>
+            <pubDate>Thu, 01 Sep 2016 15:54:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Community]]></title>
+            <description><![CDATA[<article><h1>Community</h1><p>Theia community networks more than 200 researchers and engineers from 21 countries around a common space mission and a common scientific instrument.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/f5f81d5d36ff6e1dd9208c0460bfa66c/croprotate.png?cropheight=626&cropwidth=1011&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F7fd545dd-59ca-40b4-b936-a3b45e0b01e8.png&x=184&y=0"></article>]]></description>
+            <link>http://goo.gl/qBQ7nN</link>
+            <guid isPermaLink="false">4e70f7c5-1777-4b64-9e5a-feb8b11b8a39</guid>
+            <pubDate>Thu, 01 Sep 2016 15:55:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
