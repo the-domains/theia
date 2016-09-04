@@ -1,17 +1,17 @@
 ---
-datePublished: '2016-09-01T13:38:47.951Z'
+datePublished: '2016-09-01T15:55:00.723Z'
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-09-01T13:38:40.734Z'
+dateModified: '2016-09-01T13:39:09.799Z'
 title: Community
 publisher: {}
 description: >-
   Theia community networks more than 200 researchers and engineers from 21
   countries around a common space mission and a common scientific instrument.
 isBasedOnUrl: 'http://goo.gl/qBQ7nN'
-starred: false
 sourcePath: _posts/2016-09-01-community.md
+starred: false
 _type: MediaObject
 
 ---
