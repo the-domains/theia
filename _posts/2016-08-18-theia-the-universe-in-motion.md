@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-09-01T16:05:54.385Z'
+datePublished: '2016-09-01T16:43:22.742Z'
 sourcePath: _posts/2016-08-18-theia-the-universe-in-motion.md
 inFeed: true
 authors: []
@@ -7,13 +7,13 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-09-01T16:05:53.510Z'
+dateModified: '2016-09-01T16:43:22.293Z'
 title: Mission
 publisher: {}
 description: >-
   What is the nature of the Dark Matter? Which Sun-like stars harbor habitable
-  Earth-like planets? The answer to both questions relies on precise astrometric
-  measurements. 
+  Earth-like planets? Theia will elucidate both of these questions and much
+  more.
 inLanguage: null
 inNav: false
 starred: false
@@ -25,6 +25,4 @@ _type: Article
 
 # Mission
 
-What is the nature of the Dark Matter? Which Sun-like stars harbor habitable Earth-like planets? The answer to both questions relies on precise astrometric measurements. 
-
-Theia is a differential astrometry space mission concept designed to address both of these questions, and much more.
+What is the nature of the Dark Matter? Which Sun-like stars harbor habitable Earth-like planets? Theia will elucidate both of these questions and much more.
