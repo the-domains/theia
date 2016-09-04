@@ -1,17 +1,19 @@
 ---
-datePublished: '2016-09-01T16:57:25.146Z'
+datePublished: '2016-09-01T17:02:19.130Z'
 sourcePath: _posts/2016-09-01-community.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-09-01T16:57:20.174Z'
+dateModified: '2016-09-01T17:02:18.553Z'
 title: Community
 publisher: {}
 description: >-
   Theia already networks more than 160 brains from 21 countries around a common
   space mission and a common scientific instrument.
+hasPage: true
 starred: false
-_type: Blurb
+url: community/index.html
+_type: Article
 
 ---
 ![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/64df5aa3060810463dddbc6008d26d4e/croprotate.png?cropheight=626&cropwidth=1011&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F29edafb3-f7a6-402c-a7f6-4fc778c2456d.png&x=184&y=0)
