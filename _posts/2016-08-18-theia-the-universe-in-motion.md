@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-09-01T16:43:22.742Z'
+datePublished: '2016-09-01T16:44:36.180Z'
 sourcePath: _posts/2016-08-18-theia-the-universe-in-motion.md
 inFeed: true
 authors: []
@@ -7,13 +7,12 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-09-01T16:43:22.293Z'
+dateModified: '2016-09-01T16:44:35.694Z'
 title: Mission
 publisher: {}
 description: >-
   What is the nature of the Dark Matter? Which Sun-like stars harbor habitable
-  Earth-like planets? Theia will elucidate both of these questions and much
-  more.
+  Earth-like planets? Theia will elucidate both of these questions.
 inLanguage: null
 inNav: false
 starred: false
@@ -25,4 +24,6 @@ _type: Article
 
 # Mission
 
-What is the nature of the Dark Matter? Which Sun-like stars harbor habitable Earth-like planets? Theia will elucidate both of these questions and much more.
+What is the nature of the Dark Matter? Which Sun-like stars harbor habitable Earth-like planets? Theia will elucidate both of these questions.
+
+And much more.
