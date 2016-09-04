@@ -1,4 +1,3 @@
-layout_spectrum: 0.4064998116809875
 typography_spectrum: 0.12605263153091073
 color:
   brandColors:
@@ -15,6 +14,7 @@ opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.4064998116809875
 analytics:
   google: null
   facebook: null
@@ -45,6 +45,9 @@ navigation:
     type: content
   - name: Heritage
     id: 0aaa2d42-4793-4b8d-b308-02c6d695741f
+    type: content
+  - name: Community
+    id: 1e4d4bf1-7186-44d2-8ecf-63878aa01ab0
     type: content
 favicon: null
 title: Theia
