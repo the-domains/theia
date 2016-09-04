@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-09-01T16:21:44.725Z'
+datePublished: '2016-09-01T16:38:02.836Z'
 sourcePath: _posts/2016-09-01-community.md
 inFeed: true
 isBasedOnUrl: 'http://goo.gl/qBQ7nN'
 author: []
 via: {}
-dateModified: '2016-09-01T16:21:44.158Z'
+dateModified: '2016-09-01T16:34:01.724Z'
 title: Community
 publisher: {}
 description: >-
