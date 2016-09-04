@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-09-01T16:50:44.492Z'
+datePublished: '2016-09-01T16:55:17.268Z'
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-09-01T16:50:44.001Z'
+dateModified: '2016-09-01T16:55:17.005Z'
 title: Community
 publisher: {}
 description: >-
