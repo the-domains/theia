@@ -4,7 +4,7 @@
         <description><![CDATA[Theia]]></description>
         <link>https://thegrid.ai/theia/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 01 Sep 2016 16:44:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Sep 2016 16:49:14 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/theia/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Mission]]></title>
@@ -47,13 +47,6 @@
             <link>https://thegrid.ai/theia/heritage/index.html</link>
             <guid isPermaLink="false">0aaa2d42-4793-4b8d-b308-02c6d695741f</guid>
             <pubDate>Thu, 01 Sep 2016 15:54:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Community]]></title>
-            <description><![CDATA[<article><h1>Community</h1><p>Theia networks more than 160 researchers and engineers from 21 countries around a common space mission and a common scientific instrument.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/d4269d883c7203023a9dc87cfd8b0d1d/croprotate.png?cropheight=626&cropwidth=1011&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F8a558ec3-9347-4eaa-9b1a-cbed0fa9f72d.png&x=184&y=0"></article>]]></description>
-            <link>http://goo.gl/qBQ7nN</link>
-            <guid isPermaLink="false">4e70f7c5-1777-4b64-9e5a-feb8b11b8a39</guid>
-            <pubDate>Thu, 01 Sep 2016 16:41:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
