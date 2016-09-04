@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-09-01T16:38:02.836Z'
+datePublished: '2016-09-01T16:41:40.316Z'
 sourcePath: _posts/2016-09-01-community.md
 inFeed: true
 isBasedOnUrl: 'http://goo.gl/qBQ7nN'
 author: []
 via: {}
-dateModified: '2016-09-01T16:34:01.724Z'
+dateModified: '2016-09-01T16:41:39.613Z'
 title: Community
 publisher: {}
 description: >-
@@ -15,7 +15,7 @@ starred: false
 _type: MediaObject
 
 ---
-![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/f5f81d5d36ff6e1dd9208c0460bfa66c/croprotate.png?cropheight=626&cropwidth=1011&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F7fd545dd-59ca-40b4-b936-a3b45e0b01e8.png&x=184&y=0)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8a558ec3-9347-4eaa-9b1a-cbed0fa9f72d.png)
 
 # Community
 
