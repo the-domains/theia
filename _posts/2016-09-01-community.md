@@ -1,24 +1,24 @@
 ---
-datePublished: '2016-09-01T16:55:17.268Z'
+datePublished: '2016-09-01T16:57:00.850Z'
+sourcePath: _posts/2016-09-01-community.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-09-01T16:55:17.005Z'
+dateModified: '2016-09-01T16:57:00.430Z'
 title: Community
 publisher: {}
 description: >-
-  Theia networks more than 160 brains from 21 countries around a common space
-  mission and a common scientific instrument.
-sourcePath: _posts/2016-09-01-community.md
+  Theia already networks more than 160 brains from 21 countries around a common
+  space mission and a common scientific instrument.
 starred: false
 _type: Blurb
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/29edafb3-f7a6-402c-a7f6-4fc778c2456d.png)
+![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/64df5aa3060810463dddbc6008d26d4e/croprotate.png?cropheight=626&cropwidth=1011&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F29edafb3-f7a6-402c-a7f6-4fc778c2456d.png&x=184&y=0)
 
 # Community
 
-Theia networks more than 160 brains from 21 countries around a common space mission and a common scientific instrument.
+Theia already networks more than 160 brains from 21 countries around a common space mission and a common scientific instrument.
 
 You can also become a part of it.
 
