@@ -4,7 +4,7 @@
         <description><![CDATA[Theia]]></description>
         <link>https://thegrid.ai/theia/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 31 Aug 2016 22:47:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Sep 2016 10:40:03 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/theia/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Mission]]></title>
@@ -14,11 +14,32 @@
             <pubDate>Wed, 31 Aug 2016 22:01:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Payload]]></title>
-            <description><![CDATA[<article><h1>Payload</h1><p>Astrometry lies at the very heart of Theia. The entire mission concept is built around stability, to enable sub-microarcsecond angular measurements over the 0.5 degrees telescope Field-of-View.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7ada6b4d-1a4a-42f3-aa84-7b74dd37f7de.png"></article>]]></description>
+            <title><![CDATA[Astrometry]]></title>
+            <description><![CDATA[<article><h1>Astrometry</h1><p>Astrometry lies at the very heart of Theia. The entire mission concept is built around stability, to enable sub-microarcsecond angular measurements over large Field-of-Views.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7ada6b4d-1a4a-42f3-aa84-7b74dd37f7de.png"></article>]]></description>
             <link>https://thegrid.ai/theia/payload/index.html</link>
             <guid isPermaLink="false">2c59cc07-49db-4380-a9a5-9c262f3b6f7e</guid>
-            <pubDate>Wed, 31 Aug 2016 22:01:47 GMT</pubDate>
+            <pubDate>Thu, 01 Sep 2016 10:39:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dark Matter]]></title>
+            <description><![CDATA[<article><h1>Dark Matter</h1><p>About 80% of the matter in our Universe is made of dark matter. And we do not understand what it is. Theia will help to elucidate this problem once and for all.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e75f7017-f15d-474c-bdee-240040dbcef6.png"></article>]]></description>
+            <link>https://thegrid.ai/theia/dark-matter/index.html</link>
+            <guid isPermaLink="false">4b92fe10-6594-42d1-8a21-7001c773b4f6</guid>
+            <pubDate>Wed, 31 Aug 2016 22:46:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Habitable Exo-Earths]]></title>
+            <description><![CDATA[<article><h1>Habitable Exo-Earths</h1><p>There should be plenty of planets like the Earth, lying inside the habitable zone of stars just like our Sun. But we do not know where they are. Theia will detect and characterize the masses and orbits of these planets around our nearmost Sun-like stars. Theia will pave the way for finding life elsewhere in the Universe.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/06ac474b-d38a-4493-b934-a9bdf3648361.png"></article>]]></description>
+            <link>https://thegrid.ai/theia/habitable-exo-earths/index.html</link>
+            <guid isPermaLink="false">60a454bb-f225-4407-8851-b8e7cbd6311e</guid>
+            <pubDate>Wed, 31 Aug 2016 22:46:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Additional Science]]></title>
+            <description><![CDATA[<article><h1>Additional Science</h1><p>Theia will touch all themes from the ESA Cosmic Vision programme. For instance, together with ESA/Athena it will determine the state of matter inside Neutron Stars, which are the most extreme environments of the Universe. Theia might even discover “Quark stars”, if they are out there – and if they are not, well, as the poet once wrote, “There is something rotten…”.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b5095601-68e0-4afd-ad20-c891f9c23311.png"></article>]]></description>
+            <link>https://thegrid.ai/theia/additional-science/index.html</link>
+            <guid isPermaLink="false">e8c1732c-bf2f-4902-b4cb-6098315dad81</guid>
+            <pubDate>Wed, 31 Aug 2016 22:47:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Heritage]]></title>
