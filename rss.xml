@@ -4,7 +4,7 @@
         <description><![CDATA[Theia]]></description>
         <link>https://thegrid.ai/theia/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 01 Sep 2016 15:55:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Sep 2016 15:55:19 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/theia/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Mission]]></title>
@@ -42,18 +42,18 @@
             <pubDate>Thu, 01 Sep 2016 15:54:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Additional Science]]></title>
-            <description><![CDATA[<article><h1>Additional Science</h1><p>Theia will touch all themes from the ESA Cosmic Vision programme. For instance, together with ESA/Athena it will determine the state of matter inside Neutron Stars, which are the most extreme environments of the Universe. Theia might even discover “Quark stars”, if they are out there – and if they are not, well, as the poet once wrote, “There is something rotten…”.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b5095601-68e0-4afd-ad20-c891f9c23311.png"></article>]]></description>
+            <title><![CDATA[And much more]]></title>
+            <description><![CDATA[<article><h1>And much more</h1><p>Theia will touch all themes from the ESA Cosmic Vision programme. Together with ESA/Athena measurements it will determine the state of matter inside Neutron Stars, which are among the most extreme environments of the Universe. Theia might even discover “Quark stars”, if they are out there – and if they are not, well, as the poet once wrote “Something is rotten…”.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b5095601-68e0-4afd-ad20-c891f9c23311.png"></article>]]></description>
             <link>https://thegrid.ai/theia/additional-science/index.html</link>
             <guid isPermaLink="false">e8c1732c-bf2f-4902-b4cb-6098315dad81</guid>
-            <pubDate>Wed, 31 Aug 2016 22:47:19 GMT</pubDate>
+            <pubDate>Thu, 01 Sep 2016 15:54:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Heritage]]></title>
-            <description><![CDATA[<article><h1>Heritage</h1><p>Theia builds on top of a large astronomical and technological heritage from highly successfull space missions as ESA/HIPPARCOS, ESA/Gaia, NASA/ESA/HST and advanced mission projects and concepts supported by ESA, CNES and NASA developed for SIM, NEAT, Theia/M4 and Euclid.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2fbe5775-2c20-4b22-8b4e-d8676f2f0fc2.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Heritage</h1><p>Theia builds on top of a large astronomical, operational and technological heritage from highly successful space missions such as ESA/HIPPARCOS, ESA/Gaia, NASA/ESA/HST and advanced mission projects and concepts supported by ESA, CNES and NASA developed for SIM, NEAT, Theia/M4 and Euclid.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2fbe5775-2c20-4b22-8b4e-d8676f2f0fc2.png"></article>]]></description>
             <link>https://thegrid.ai/theia/heritage/index.html</link>
             <guid isPermaLink="false">0aaa2d42-4793-4b8d-b308-02c6d695741f</guid>
-            <pubDate>Wed, 31 Aug 2016 22:45:43 GMT</pubDate>
+            <pubDate>Thu, 01 Sep 2016 15:54:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
