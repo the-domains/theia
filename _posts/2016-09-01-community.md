@@ -1,16 +1,16 @@
 ---
-datePublished: '2016-09-01T16:50:22.038Z'
+datePublished: '2016-09-01T16:50:37.583Z'
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-09-01T16:50:11.878Z'
+dateModified: '2016-09-01T16:50:37.158Z'
 title: Community
 publisher: {}
 description: >-
   Theia networks more than 160 brains from 21 countries around a common space
   mission and a common scientific instrument.
-starred: false
 sourcePath: _posts/2016-09-01-community.md
+starred: false
 _type: Blurb
 
 ---
